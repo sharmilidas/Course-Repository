@@ -16,7 +16,7 @@ This repository contains the information and details of **Group 24** for the Sel
 
 🎥 **All assignment demonstration videos are available in our submission repository.**
 
-👉 **[📂 View Assignment Submissions](YOUR_COURSE_REPOSITORY_LINK)**
+👉 **[📂 View Assignment Submissions](./submissions/SharmiliDas_12023052002102/)**
 
 The submission repository contains the assignment-wise README files with the corresponding **Google Drive video links**.
 
