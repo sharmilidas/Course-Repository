@@ -16,12 +16,12 @@
 
 The following table contains the Google Drive links for the video demonstrations of the completed assignments.
 
-| Assignment | Topic | Google Drive Video |
-|---|---|---|
-| **Assignment 1** | Web Element Identification | [▶️ Watch Video](https://drive.google.com/file/d/1_3oDUehCG1ydPjbwgJYjiX-jhSnswbvu/view?usp=drive_link) |
-| **Assignment 2** | Multiple Element Identification | [▶️ Watch Video](https://drive.google.com/file/d/1599gQfML0_kToET3qKn39fldMxA4X0Tz/view?usp=drivesdk) |
-| **Assignment 3** | CSS Selector Challenge | [▶️ Watch Video](https://drive.google.com/file/d/1JjFQppk0_gXTBcM58kMHXi_hUO7aGDrZ/view?usp=drivesdk) |
-| **Assignment 4** | Child Nodes Using CSS | [▶️ Watch Video](https://drive.google.com/file/d/1bTD4RhGIJVwLcHqiWJxBzvc7aECLfXtu/view?usp=drivesdk) |
+| Assignment | Topic | Google Drive Video | Done By |
+|---|---|---|---|
+| **Assignment 1** | Web Element Identification | [▶️ Watch Video](https://drive.google.com/file/d/1_3oDUehCG1ydPjbwgJYjiX-jhSnswbvu/view?usp=drive_link) | **Shreya Ghosh** |
+| **Assignment 2** | Multiple Element Identification | [▶️ Watch Video](https://drive.google.com/file/d/1599gQfML0_kToET3qKn39fldMxA4X0Tz/view?usp=drivesdk) | **Sharmili Das** |
+| **Assignment 3** | CSS Selector Challenge | [▶️ Watch Video](https://drive.google.com/file/d/1JjFQppk0_gXTBcM58kMHXi_hUO7aGDrZ/view?usp=drivesdk) | **Sharmili Das** |
+| **Assignment 4** | Child Nodes Using CSS | [▶️ Watch Video](https://drive.google.com/file/d/1bTD4RhGIJVwLcHqiWJxBzvc7aECLfXtu/view?usp=drivesdk) | **Shreya Ghosh** |
 
 > **Note:** Please ensure that the Google Drive sharing permission is set to **Anyone with the link → Viewer** so that the videos can be accessed during evaluation.
 
